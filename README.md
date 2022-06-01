@@ -9,9 +9,7 @@ Usage: Copy/download the files in the PacMen folder and then open index.html in 
 
 Roadmap: This exercise can be improved in the future by adding features that will allow continuous animation when other PacMen are added to the screen. It can also include code to change the image of each character to match the direction in which it is traveling.
 
-License: MIT License
-
-Copyright (c) 2022 Owais Uddin Ahmed
+License: MIT License (NOTE: significant parts of this code was taught and/or provided via the MIT xPRO course in Full Stack Development, and I do not claim ownership over it)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
